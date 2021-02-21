@@ -10,4 +10,4 @@ This project aims to predict the prices of the used cars based on the following 
 7. Transmission type (Manual, Auto)
 
 **Model Used:**
-Randon Forest Regressor
+Random Forest Regressor
